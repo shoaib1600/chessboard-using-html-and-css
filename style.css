@@ -1,0 +1,15 @@
+table{
+    border: 5px;
+    border-color:black;
+}
+.td1{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+}
+.td2{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    
+}
